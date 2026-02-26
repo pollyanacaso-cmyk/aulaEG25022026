@@ -1,4 +1,4 @@
-## 1. Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF)
 
 ### RF01 — Login do usuário
 O sistema deve permitir que o usuário realize login com e-mail e senha.
@@ -9,3 +9,5 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 ### RF03 — Atualização de perfil
 O usuário pode alterar nome, foto e dados pessoais.
 
+### RF04 - Cadastro de Novos Usuários
+O sistema deve permitir que os novos usuários sejam criados
